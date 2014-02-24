@@ -1,0 +1,15 @@
+{
+    "architecture": "all",
+    "description": "description of DoubanFMUnofficial",
+    "framework": "ubuntu-sdk-13.10",
+    "hooks": {
+        "DoubanFMUnofficial": {
+            "apparmor": "DoubanFMUnofficial.json",
+            "desktop": "DoubanFMUnofficial.desktop"
+        }
+    },
+    "maintainer": "Shuduo Sang <shuduo.sang@canonical.com>",
+    "name": "com.ubuntu.developer.sangshuduo.doubanfmunofficial",
+    "title": "DoubanFMUnofficial",
+    "version": "0.1"
+}
