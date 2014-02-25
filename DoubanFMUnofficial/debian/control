@@ -1,0 +1,14 @@
+Source: doubanfmunofficial
+Priority: extra
+Section: sound
+Priority: extra
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: https://www.github.com/sangshuduo/doubanfmunofficial
+Vcs-Git: git://www.github.com/sangshuduo/doubanfmunofficial.git
+
+Maintainer: Shuduo Sang <sangshuduo@gmail.com>
+
+Package: doubanfmunofficial
+Architecture: all
+Description: Douban FM Unofficial client
