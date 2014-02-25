@@ -8,8 +8,8 @@
             "desktop": "DoubanFMUnofficial.desktop"
         }
     },
-    "maintainer": "Shuduo Sang <shuduo.sang@canonical.com>",
+    "maintainer": "Shuduo Sang <sangshuduo@sangshuduo.com>",
     "name": "com.ubuntu.developer.sangshuduo.doubanfmunofficial",
-    "title": "DoubanFMUnofficial",
-    "version": "0.1"
+    "title": "Douban FM Unofficial",
+    "version": "0.1.1"
 }

@@ -1,6 +1,6 @@
 import QtQuick 2.0
-import QtWebKit 3.0
 import Ubuntu.Components 0.1
+import Ubuntu.Components.Extras.Browser 0.1
 import "components"
 
 /*!
@@ -12,7 +12,7 @@ MainView {
     objectName: "mainView"
 
     // Note! applicationName needs to match the "name" field of the click manifest
-    applicationName: "com.ubuntu.developer.sangshuduo.DoubanFMUnofficial"
+    applicationName: "com.ubuntu.developer.sangshuduo.doubanfmunofficial"
 
     /*
      This property enables the application to change orientation
@@ -27,7 +27,7 @@ MainView {
         id: webViewFlickable
         anchors.fill: parent
 
-        WebView {
+        UbuntuWebView {
                 url: "http://douban.fm/partner/uc"
                 anchors.fill: parent
                 smooth: false
